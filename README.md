@@ -1,5 +1,7 @@
 # Simple Quiz Application
 
+![image.info](quiz-app-snapshot.png)
+
 ## Overview
 
 This Java-based Quiz Application is designed to provide users with an interactive quiz experience. Users can attempt a series of questions and receive immediate feedback on their answers. The application ensures a user-friendly quiz-taking process and provides correct answers if the marked answer is wrong.
